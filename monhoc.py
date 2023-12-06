@@ -1,5 +1,5 @@
 A = ["TOÁN", "LÝ", "HÓA"]
-B = ["SINH", "TOÁN", "HÓA"]
+B = ["SIN", "TOÁ", "HÓ"]
 C = ["VĂN", "SỬ", "ĐỊA"]
 D = ["ANH", "TOÁN", "VĂN"]
 name = ["A","B","C","D"]    # để lấy tên
