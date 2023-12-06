@@ -8,7 +8,7 @@ khoi = [A,B,C,D]
 def inputgrade(name):
     A = []
     for i in range(len(name)):
-        subject = float(input("- Nhập điểm môn " + name[i] + ": "))
+        subject = float(input("- Nhập điểm " + name[i] + ": "))
         A.append(subject)
     return A
 
